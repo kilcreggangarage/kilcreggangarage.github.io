@@ -8,5 +8,5 @@ Remember, Police now have number plate recognition and can access your vehicle d
 We also offer a wide range of services, besides MOT Testing, this includes servicing, diagnostics & repairs. For more information, please feel free to visit our services page.
 
 Don’t forget that if you book your MOT with us today we’ll give you a free pre-MOT health check. For MOT’s or any of our other services, please feel free to call us today on 01436 842898.
-
+***
 ![](https://github.com/TheLastDestroyer/kilcreggangarage.github.io/blob/master/assets/images/acreditation.png?raw=true)
