@@ -1,5 +1,5 @@
 ![](https://github.com/TheLastDestroyer/kilcreggangarage.github.io/blob/master/assets/images/logo.png?raw=true)
-#
+## Home
 
 Kilcreggan Garage is approved by the Government appointed Driver and Vehicle Standards Agency (DVSA). All MOT tests are completed by MOT testers approved by DVSA.
 
