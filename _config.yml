@@ -1,5 +1,6 @@
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
 theme: jekyll-theme-dinky
 title: Kilcreggan Garage
 description: Local Family Run Business With All Work Guaranteed
