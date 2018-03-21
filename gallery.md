@@ -1,9 +1,10 @@
 ---
 theme: default
 ---
-<meta name="viewport" content="width=device-width, initial-scale=1">
 
-<h2 class="w3-center">Our Facilities</h2>
+---
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
 <div class="w3-content w3-display-container">
   <img class="mySlides" src="https://www.w3schools.com/w3css/img_fjords.jpg" style="width:100%">
@@ -34,3 +35,5 @@ function showDivs(n) {
   x[slideIndex-1].style.display = "block";  
 }
 </script>
+
+---
