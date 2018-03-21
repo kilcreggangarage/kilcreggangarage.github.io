@@ -195,7 +195,7 @@ hr {
 img {
   position: relative;
   margin: 0 auto;
-  max-width: 650px;
+  max-width: 60%;
   padding: 5px;
   margin: 10px 0 32px 0;
 }
@@ -234,7 +234,7 @@ table {
 
 /* Wrapper */
 .wrapper {
-  width:960px;
+  width:90%;
 }
 
 
@@ -243,7 +243,7 @@ table {
 header {
 	background-color: #171717;
 	color: #FDFDFB;
-  width:200px;
+  width:30%;
   float:left;
   position:fixed;
 	border: 1px solid #000;
@@ -345,7 +345,7 @@ a.buttons:hover {
 /* Section - for main page content */
 
 section {
-  width:600px;
+  width:60%;
   float:right;
   padding-bottom:50px;
 }
@@ -354,7 +354,7 @@ section {
 /* Footer */
 
 footer {
-  width:170px;
+  width:20%;
   float:left;
   position:fixed;
   bottom:10px;
