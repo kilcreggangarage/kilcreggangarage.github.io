@@ -1,6 +1,6 @@
 # Kilcreggan Garage
 
-[![Build Status](https://travis-ci.org/TheLastDestroyer/kilcreggangarage.github.io.svg?branch=master)](https://travis-ci.org/TheLastDestroyer/kilcreggangarage.github.io)
+[![](https://travis-ci.org/TheLastDestroyer/kilcreggangarage.github.io.svg?branch=master)](https://travis-ci.org/TheLastDestroyer/kilcreggangarage.github.io)
 
 ## Local Family Run Business With All Work Guaranteed
 
