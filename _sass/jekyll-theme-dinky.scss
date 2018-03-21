@@ -22,7 +22,9 @@ time, mark, audio, video {
   vertical-align: baseline;
 }
 
-w3-button{
+
+
+.w3-button{
 	border:none;
 	display:inline-block;
 	padding:8px 16px;
@@ -36,7 +38,7 @@ w3-button{
 	white-space:nowrap;
 }
 
-w3-button:hover{
+.w3-button:hover{
 	color:#000!important;
 	background-color:#ccc!important;
 }
