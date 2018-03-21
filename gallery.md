@@ -7,10 +7,9 @@ theme: default
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <div class="w3-content w3-display-container">
-  <img class="mySlides" src="https://www.w3schools.com/w3css/img_fjords.jpg" style="width:100%">
-  <img class="mySlides" src="https://www.w3schools.com/w3css/img_lights.jpg" style="width:100%">
-  <img class="mySlides" src="https://www.w3schools.com/w3css/img_mountains.jpg" style="width:100%">
-  <img class="mySlides" src="https://www.w3schools.com/w3css/img_forest.jpg" style="width:100%">
+  <img class="mySlides" src="https://github.com/TheLastDestroyer/kilcreggangarage.github.io/blob/master/assets/images/1920x540-1.jpg?raw=true" style="width:100%">
+  <img class="mySlides" src="https://github.com/TheLastDestroyer/kilcreggangarage.github.io/blob/master/assets/images/1920x540-3.jpg?raw=true" style="width:100%">
+  <img class="mySlides" src="https://github.com/TheLastDestroyer/kilcreggangarage.github.io/blob/master/assets/images/670x510.png?raw=true" style="width:100%">
 
   <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
   <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
