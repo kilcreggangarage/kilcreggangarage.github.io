@@ -12,11 +12,12 @@ theme: default
   <img src="/kilcreggangarage.github.io{{ myimage.path }}?raw=true">
 {% endfor %}
 
-<!--
+
 <div class="w3-content w3-display-container">
-  <img class="mySlides" src="assets/images/1920x540-1.jpg?raw=true" style="width:100%">
-  <img class="mySlides" src="assets/images/1920x540-3.jpg?raw=true" style="width:100%">
-  <img class="mySlides" src="assets/images/670x510.png?raw=true" style="width:100%">
+  {% assign image_files = site.static_files | where: "image", true %}
+{% for myimage in image_files %}
+  <img class="mySlides" src="/kilcreggangarage.github.io{{ myimage.path }}?raw=true" style="width:100%">
+{% endfor %}
 
   <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
   <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
@@ -41,6 +42,6 @@ function showDivs(n) {
   x[slideIndex-1].style.display = "block";  
 }
 </script>
--->
+
 
 ---
