@@ -9,7 +9,7 @@ theme: default
 
 {% assign image_files = site.static_files | where: "image", true %}
 {% for myimage in image_files %}
-  <img src="kilcreggangarage.github.io/{{ myimage.path }}?raw=true">
+  <img src="/kilcreggangarage.github.io{{ myimage.path }}?raw=true">
 {% endfor %}
 
 <!--
