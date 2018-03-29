@@ -2,7 +2,7 @@
 layout: default
 ---
 
----
+<img src="assets/images/slideshow/1920x540-1.jpg?raw=true">
 Kilcreggan Garage is approved by the Government appointed Driver and Vehicle Standards Agency (DVSA). All MOT tests are completed by MOT testers approved by DVSA.
 
 Remember, Police now have number plate recognition and can access your vehicle details instantly! If you don’t have an MOT it also invalidates your insurance.
