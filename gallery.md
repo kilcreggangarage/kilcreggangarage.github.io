@@ -6,13 +6,6 @@ theme: default
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-
-{% assign image_files = site.static_files | where: "image", true %}
-{% for myimage in image_files %}
-  <img src="/kilcreggangarage.github.io{{ myimage.path }}?raw=true">
-{% endfor %}
-
-
 <div class="w3-content w3-display-container">
   {% assign image_files = site.static_files | where: "image", true %}
 {% for myimage in image_files %}
