@@ -7,6 +7,7 @@ description: Local Family Run Business With All Work Guaranteed
 show_downloads: false
 logo: https://github.com/TheLastDestroyer/kilcreggangarage.github.io/blob/master/assets/images/logo.png?raw=true
 
+baseurl: "/TheLastDestroyer/kilcreggangarage.github.io"
 
 defaults:
   - scope:
