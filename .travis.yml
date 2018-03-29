@@ -4,3 +4,9 @@ rvm:
 - 2.1
 script: "bundle exec jekyll build"
 
+defaults:
+  -scope:
+    path: "assets/images"
+    values:
+      image: true
+
