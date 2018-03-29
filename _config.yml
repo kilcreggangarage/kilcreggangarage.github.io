@@ -10,6 +10,6 @@ logo: https://github.com/TheLastDestroyer/kilcreggangarage.github.io/blob/master
 
 defaults:
   - scope:
-      path: "assets/images"
+      path: "assets/images/slideshow"
     values:
       image: true
