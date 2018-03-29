@@ -6,6 +6,13 @@ theme: default
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
+
+{% assign image_files = site.static_files | where: "image", true %}
+{% for myimage in image_files %}
+  {{ myimage.path }}
+{% endfor %}
+
+
 <div class="w3-content w3-display-container">
   <img class="mySlides" src="assets/images/1920x540-1.jpg?raw=true" style="width:100%">
   <img class="mySlides" src="assets/images/1920x540-3.jpg?raw=true" style="width:100%">
