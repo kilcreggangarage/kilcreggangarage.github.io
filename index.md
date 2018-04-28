@@ -13,6 +13,6 @@ Kilcreggan Garage is approved by the Government appointed Driver and Vehicle Sta
 
 We **supply & fit tyres** to suit every pocket; carry out **wheel alignment**; **service air conditioning** and attend **local breakdowns**
 
-For more information, please give us a call 01436 842989.
+For more information, please give us a call 01436 842898.
 
 ---
