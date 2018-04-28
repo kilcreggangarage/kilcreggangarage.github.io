@@ -4,7 +4,7 @@ layout: default
 
 ---
 <img src="assets/images/header.png?raw=true">
-Kilcreggan Garage: your **friendly, local, family run business**.
+Kilcreggan Garage: your friendly, local, family run business.
 
 Our skilled, experienced technicians can **service and repair** just about any type of vehicle and make. 
 We have **state-of-the-art diagnostic equipment** to help identify issues with your vehicle and reset service indicators on all makes and models.
