@@ -13,6 +13,8 @@ Kilcreggan Garage is approved by the Government appointed **Driver and Vehicle S
 
 We **supply & fit tyres** to suit every pocket; carry out **wheel alignment**; service **air conditioning** and attend **local breakdowns**.
 
+We collect and store customers' personal data to fulfill contracts, supply our services and as required by law.  We may use customers' data to provide MOT reminders. Please see full details in our <a href = 'privacy.html'>Privacy Notice</a>. We do not share customers' personal data unless required by law
+
 For more information or to book an appointment, please give us a call 01436 842898.
 
 ---
