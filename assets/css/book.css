@@ -1,26 +1,4 @@
-/* unvisited link */
-a:link {
-    color: initial;
-}
-
-/* visited link */
-a:visited {
-    color: initial;
-}
-
-/* mouse over link */
-a:hover {
-    color: initial;
-}
-
-/* selected link */
-a:active {
-    color: initial;
-}
-
-a{
-	text-decoration: none;
-}
+/* selected
 p{
 	margin: 0px;
 }
