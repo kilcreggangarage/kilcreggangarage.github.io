@@ -4,7 +4,7 @@ theme: default
 
 ---
 <br>
-The Privacy Notice can be seen below or downloaded <a href='GDPR%20Privacy%20Notice.pdf'>here</a>
+The Privacy Notice can be seen below or downloaded <a href='GDPR%20Privacy%20Notice.pdf'>__here__</a>
 <br>
 
 ---
