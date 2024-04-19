@@ -3,7 +3,7 @@ plugins:
   - jekyll-sitemap
 theme: jekyll-theme-dinky
 title: Kilcreggan Garage
-description: Local Family Run Business With All Work Guaranteed
+description: Local Family Run Business
 show_downloads: false
 logo: https://github.com/TheLastDestroyer/kilcreggangarage.github.io/blob/master/assets/images/logo.png?raw=true
 
