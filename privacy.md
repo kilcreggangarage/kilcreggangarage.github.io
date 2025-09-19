@@ -9,7 +9,7 @@ The Privacy Notice can be seen below or downloaded <a href='GDPR%20Privacy%20Not
 
 ---
 
-# Privacy Notice - Customers SEPTEMBER 2025
+# Privacy Notice - Customers September 2025
 
 ## BACKGROUND:
 
