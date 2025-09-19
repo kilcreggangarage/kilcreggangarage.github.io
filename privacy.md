@@ -17,9 +17,10 @@ Kilcreggan Garage and MOT Centre understands that your privacy is important to y
 
 ## 1. Information About Kilcreggan Garage and MOT Centre (Partnership)
 
-Address: Shore Road
-
-Kilcreggan G84 0JJ
+Address:\
+&nbsp;&nbsp;&nbsp;&nbsp;Shore Road\
+&nbsp;&nbsp;&nbsp;&nbsp;Kilcreggan\
+&nbsp;&nbsp;&nbsp;&nbsp;G84 0JJ
 
 VAT number: 264 9549 17
 
@@ -114,8 +115,7 @@ Email address: kilcreggangarage@btconnect.com
 
 Telephone number: 01436 842898
 
-Postal Address:
-
+Postal Address:\
 &nbsp;&nbsp;&nbsp;&nbsp;Kilcreggan Garage and MOT Centre\
 &nbsp;&nbsp;&nbsp;&nbsp;Shore Road\
 &nbsp;&nbsp;&nbsp;&nbsp;Kilcreggan G84 0HN\
